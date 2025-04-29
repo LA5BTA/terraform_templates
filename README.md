@@ -1,2 +1,2 @@
-# terraform_templates
-Terraform templates
+# terraform_template
+Terraform template
